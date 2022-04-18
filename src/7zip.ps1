@@ -8,7 +8,7 @@ param(
    )
 
 # Example variables
-
+<#
 $7zippath = "C:\Program Files\7-Zip\7z.exe"
 $operation = "extract"
 $source = "C:\OpConFiles\OpConWebInstaller.zip"
